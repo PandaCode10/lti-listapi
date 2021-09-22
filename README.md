@@ -26,7 +26,6 @@
 - https://ctk-api.herokuapp.com
 - https://api.xzusfin.repl.co
 - https://docs.miku-for.us
-- 
 
 # With Key / Auth
 
@@ -47,3 +46,11 @@
 
 - https://github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
 - https://github.com/public-apis/public-apis
+- https://github.com/n0shake/Public-APIs
+- https://github.com/ShiftyTR/Proxy-List
+- https://github.com/jaegeral/security-apis
+- https://github.com/matthewdean/roblox-web-apis
+- https://github.com/Vets-Who-Code/api-list
+- https://github.com/Hipo/university-domains-list-api
+- https://github.com/odomojuli/RegExAPI
+- https://github.com/CUTR-at-USF/awesome-transit
