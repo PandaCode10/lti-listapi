@@ -1,3 +1,5 @@
+# Without Key / Auth
+
 - https://api.itshappy.ga
 - https://api.berk404.ga
 - https://api.leref.ga
@@ -15,3 +17,12 @@
 - https://api.weky.xyz
 - https://api.falsisdev.ga
 - https://shit-api.ml
+
+# With Key / Auth
+
+- https://api.avux.ga
+
+Key: https://discord.gg/YUVeCh4xv2
+- https://api.alexflipnote.dev
+
+Key: https://discord.gg/DpxkY3x
