@@ -15,7 +15,7 @@
 - https://cool-api.xyz
 - https://api.willz.repl.co
 - https://api.weky.xyz
-- https://api.falsisdev.ga
+- https://api.falsisdev.ga (key: a1q7klzhassx59uvi)
 - https://shit-api.ml
 - https://docs.nekos.best
 - https://yuabot.com/api
@@ -25,6 +25,8 @@
 - https://some-random-api.ml
 - https://ctk-api.herokuapp.com
 - https://api.xzusfin.repl.co
+- https://docs.miku-for.us
+- 
 
 # With Key / Auth
 
@@ -37,3 +39,11 @@
 - https://cloud-db.ml
 
 > Key: https://discord.gg/nEtTMS934g
+- https://jastinch-api.ml/
+
+> Key: unknown
+
+# More
+
+- https://github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
+- https://github.com/public-apis/public-apis
