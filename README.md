@@ -1,3 +1,6 @@
+Shortcut:
+[Without Key](https://github.com/GreenVGJR/lti-listapi/edit/a/README.md#without-key--auth) | [With Key](https://github.com/GreenVGJR/lti-listapi/edit/a/README.md#with-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/edit/a/README.md#more)
+
 # Without Key / Auth
 
 - https://api.itshappy.ga
