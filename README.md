@@ -1,5 +1,5 @@
 Shortcut:
-[Without Key](https://github.com/GreenVGJR/lti-listapi/a/README.md#without-key--auth) | [With Key](https://github.com/GreenVGJR/lti-listapi/a/README.md#with-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/a/README.md#more)
+[Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [With Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#with-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
 
 # Without Key / Auth
 
