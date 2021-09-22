@@ -1,3 +1,5 @@
+[![amc-aoijs](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
+
 Shortcut:
 [Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [With Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#with-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
 
