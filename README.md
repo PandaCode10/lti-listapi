@@ -22,7 +22,10 @@
 
 - https://api.avux.ga
 
-Key: https://discord.gg/YUVeCh4xv2
+> Key: https://discord.gg/YUVeCh4xv2
 - https://api.alexflipnote.dev
 
-Key: https://discord.gg/DpxkY3x
+> Key: https://discord.gg/DpxkY3x
+- https://cloud-db.ml
+
+> Key: https://discord.gg/nEtTMS934g
