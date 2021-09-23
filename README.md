@@ -31,6 +31,7 @@ Shortcut:
 - https://ctk-api.herokuapp.com
 - https://api.xzusfin.repl.co
 - https://docs.miku-for.us
+- https://api.sekisui.ml
 
 # With Key / Auth
 
