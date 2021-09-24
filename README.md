@@ -32,6 +32,7 @@ Shortcut:
 - https://api.xzusfin.repl.co
 - https://docs.miku-for.us
 - https://api.sekisui.ml
+- https://api.udit.gq/documentation
 
 # With Key / Auth
 
