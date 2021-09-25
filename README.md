@@ -33,6 +33,7 @@ Shortcut:
 - https://docs.miku-for.us
 - https://api.sekisui.ml
 - https://api.udit.gq/documentation
+- https://api.carrotfishdev.repl.co/endpoints
 
 # With Key / Auth
 
