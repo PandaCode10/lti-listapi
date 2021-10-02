@@ -34,6 +34,9 @@ Shortcut:
 - https://api.sekisui.ml
 - https://api.udit.gq/documentation
 - https://api.carrotfishdev.repl.co/endpoints
+- https://api.miduwu.ml
+- https://apiv1.snoozeds.repl.co
+- https://shot-on-iphone.studio/api/video
 
 # With Key / Auth
 
