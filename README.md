@@ -65,3 +65,4 @@ Shortcut:
 - https://github.com/Hipo/university-domains-list-api
 - https://github.com/odomojuli/RegExAPI
 - https://github.com/CUTR-at-USF/awesome-transit
+- https://www.public-apis.ml
