@@ -37,7 +37,9 @@ Shortcut:
 - https://api.miduwu.ml
 - https://apiv1.snoozeds.repl.co
 - https://shot-on-iphone.studio/api/video
-- https://api.miduwu.ml/
+- https://api.miduwu.ml
+- https://api.kazdev.ml
+- https://app.resetxd.repl.co
 
 # With Key / Auth
 
