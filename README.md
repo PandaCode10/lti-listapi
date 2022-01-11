@@ -48,6 +48,7 @@ Shortcut:
 - https://berk404.ga/api
 - https://image.thum.io
 - https://statically.io
+- https://img.shields.io
 
 # More
 
