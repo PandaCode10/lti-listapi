@@ -1,7 +1,7 @@
-[![amc-aoijs](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
+[![lti-listapi](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
 
 Shortcut:
-[Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [With Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#with-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
+[Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
 
 # Without Key / Auth
 
@@ -40,21 +40,14 @@ Shortcut:
 - https://api.miduwu.ml
 - https://api.kazdev.ml
 - https://app.resetxd.repl.co
-
-# With Key / Auth
-
-- https://api.avux.ga
-
-> Key: https://discord.gg/YUVeCh4xv2
-- https://api.alexflipnote.dev
-
-> Key: https://discord.gg/DpxkY3x
-- https://cloud-db.ml
-
-> Key: https://discord.gg/nEtTMS934g
-- https://jastinch-api.ml/
-
-> Key: unknown
+- https://cryptons-api.herokuapp.com
+- https://spapi.ga
+- https://vslapi.cf/endpoints
+- https://aero-network-api.herokuapp.com (key: Aero)
+- https://apigob.girlorboy.repl.co
+- https://berk404.ga/api
+- https://image.thum.io
+- https://statically.io
 
 # More
 
@@ -69,3 +62,4 @@ Shortcut:
 - https://github.com/odomojuli/RegExAPI
 - https://github.com/CUTR-at-USF/awesome-transit
 - https://www.public-apis.ml
+- https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
